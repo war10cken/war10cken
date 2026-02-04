@@ -41,7 +41,7 @@
   <li><a href="https://github.com/war10cken/DemoShopTesting">Тестирование онлайн-магазина</a> – функциональное тестирование</li>
   <li><a href="https://github.com/war10cken/APITesting">Тестирование API</a> – REST и SOAP при помощи Postman</li>
   <li><a href="https://github.com/war10cken/SQL">MySQL</a> – скрипты запросов к БД</li>
-  <li><a href="https://github.com/war10cken/SQL">Charles Proxy</a> – подмена/изменение запросов, проверка сети</li>
+  <li><a href="https://github.com/war10cken/CharlesProxy">Charles Proxy</a> – подмена/изменение запросов, проверка сети</li>
 </ul>
 
 ---
