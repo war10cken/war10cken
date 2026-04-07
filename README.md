@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Обо мне:
 
-Я пришел в тестирование, потому что мне нравится находить причины сбоев и улучшать продукты для пользователей. Во время обучения я освоил не только теорию, но и практику: от составления тест-кейсов до поиска и документирования багов через Jira и её аналогов, работы с API в Postman и проверки данных в SQL. Это позволяет мне методично проверять функционал и влиять на качество итогового решения. Сейчас я ищу свою первую команду в качестве инженера по тестированию, где смогу применять свои знания и развиваться вместе с проектом.
+Инженер по тестированию с фундаментальной подготовкой (профильный курс) и коммерческим опытом работы над live-проектом (мобильная игра Art of War 3). Владею техниками тест-дизайна, навыками функционального и регрессионного тестирования, BDD/Gherkin (Cucumber), работой с API (Postman), SQL и анализом логов (OpenSearch). На практике занимался рефакторингом тестовой документации: стандартизировал сценарии, структурировал feature-файлы, внедрял Background и User Story, проводил тестирование по подготовленным тест-кейсам. Ищу команду, где смогу применять технические навыки и расти вместе с продуктом.
 
 ---
 
@@ -34,6 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png" title="Bash" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>
+  <img src="https://images.seeklogo.com/logo-png/50/2/opensearch-icon-logo-png_seeklogo-500356.png" title="OpenSearch" alt="OpenSearch" width="40" height="40"/>
+  <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" title="GitLab" alt="GitLab" width="40" height="40"/>
 </p>
 
 ### :memo: Тестовая документация и артефакты
